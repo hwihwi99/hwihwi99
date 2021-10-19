@@ -4,14 +4,12 @@
  
  ## 📫 How to reach me: 
  ### Please send me an e-mail.      
-  📩 chamgrace@naver.com      
-  📩 chamgrace99@gmail.com 
+  📩 chamgrace@naver.com     
  
  
  ##
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hwihwi99)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
+
 <!--
 **hwihwi99/hwihwi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
