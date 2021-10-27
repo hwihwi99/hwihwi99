@@ -1,11 +1,11 @@
- ## 🌱 I’m currently learning ...
+<!--  ## 🌱 I’m currently learning ...
   ✏ Web FrontEnd : HTML5/CSS3/JavaScript     
   ✏ Web BackEnd : Node.JS
   ✏  JAVA
  
  ## 📫 How to reach me: 
  ### Please send me an e-mail.      
-  📩 chamgrace@naver.com     
+  📩 chamgrace@naver.com      -->
  
  
  ##
