@@ -3,8 +3,8 @@
   ✏ Web BackEnd : Node.JS     
   ✏ Main Language : JAVA
  
- ## 📫 How to reach me: 
- ### Please send me an e-mail.      
+ # 📫 How to reach me: 
+ ## Please send me an e-mail.      
   📩 chamgrace@naver.com      
  
  
