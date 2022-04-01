@@ -1,4 +1,4 @@
-### 안녕하세요. 시나브로 발전 중인 개발자 이휘정입니다.👋👋
+### 안녕하세요. 시나브로 발전 중인 개발자 이휘정입니다.
 <!-- ## 🌱 I’m currently learning ...
   ✏ Web FrontEnd : HTML5/CSS3/JavaScript     
   ✏ Web BackEnd : Node.JS     
