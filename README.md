@@ -2,8 +2,7 @@
 # 🌱 I’m currently learning ...
   ✏ Web FrontEnd : HTML5/CSS3/JavaScript     
   ✏ Web BackEnd : Node.JS     
-  ✏ Main Language : JAVA, Spring
-
+  ✏ Main Language : JAVA, SpringBoot
 
 
   
