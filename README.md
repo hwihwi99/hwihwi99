@@ -1,6 +1,6 @@
 ### 안녕하세요. 시나브로 발전 중인 개발자 이휘정입니다.
 
-# 🌱 I’m currently learning ...    
+# 🌱 BackEnd Developer    
 
   ✏ Web BackEnd : SpringBoot    
   ✏ Main Language : JAVA, SpringBoot
