@@ -8,7 +8,7 @@
  Please send  me an e-mail.    
   📩 chamgrace@naver.com      
 
-##  🔭 I’m currently working on ...
+##  🔭 My Activity
 ```2021.09~2022.02``` UMC 1기   
 ```2022.03~2022.08``` UMC 2기 건국대학교 리더    
 ```2022.04~``` 스타트업 '비니버스' 풀스택 개발자                      
