@@ -9,11 +9,11 @@
   📩 chamgrace@naver.com      
 
 ##  🔭 My Activity
-```2021.09~2022.02``` UMC 1기   
-```2022.03~2022.08``` UMC 2기 건국대학교 리더    
+```2021.09~2022.02``` UMC 1th Member 
+```2022.03~2022.08``` UMC 2nd Konkuk.Univ Leader    
 ```2022.04~``` 스타트업 '비니버스' 풀스택 개발자  
 ```2022.07~2022.08``` NHN_COMMERCE 백엔드 양성 교육             
-```2022.07~``` AUSG 6th
+```2022.07~``` AUSG 6th Member
 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwihwi99&show_icons=true&theme=dracula)
